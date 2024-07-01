@@ -1447,7 +1447,7 @@ section,
 
 .doctors .team-member .member-info {
   padding-left: 30px;
-  max-width: 350px;
+  max-width: 250px;
 }
 
 @media (max-width: 468px) {
@@ -2445,6 +2445,8 @@ section,
 
 .team .team-member .member-info {
   padding-left: 30px;
+  max-width: 350px;
+
 }
 
 @media (max-width: 468px) {

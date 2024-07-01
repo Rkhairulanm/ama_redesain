@@ -101,10 +101,10 @@ h6 {
   font-family: var(--heading-font);
 }
 
-.img-q {
+/* .img-q {
   max-width: 250px;
   max-height: 200px;
-}
+} */
 
 /*--------------------------------------------------------------
 # Clients Section
@@ -1447,6 +1447,7 @@ section,
 
 .doctors .team-member .member-info {
   padding-left: 30px;
+  max-width: 350px;
 }
 
 @media (max-width: 468px) {
